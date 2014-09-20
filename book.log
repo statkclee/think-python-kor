@@ -1,0 +1,2439 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=latex 2014.1.6)  21 SEP 2014 02:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**book.tex
+(./book.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(c:/usr/texlive/2013/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(c:/usr/texlive/2013/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/usr/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(c:/usr/texlive/2013/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/usr/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(c:/usr/texlive/2013/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(c:/usr/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen113
+))
+(c:/usr/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip11
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks19
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks26
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/exercise/exercise.sty
+Package: exercise 2012/05/08 v1.58 Exercise package (P.Pichaureau)
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\ExerciseSkipBefore=\skip58
+\ExerciseSkipAfter=\skip59
+\Exesep=\skip60
+\Exetopsep=\skip61
+\Exeparsep=\skip62
+\Exepartopsep=\skip63
+\Exeleftmargin=\skip64
+\Exerightmargin=\skip65
+\Exelabelwidth=\skip66
+\Exelabelsep=\skip67
+\ExerciseBefore=\skip68
+\QuestionBefore=\skip69
+\subQuestionBefore=\skip70
+\subsubQuestionBefore=\skip71
+\QuestionIndent=\skip72
+\subQuestionIndent=\skip73
+\subsubQuestionIndent=\skip74
+\c@Exercise=\count103
+\c@Answer=\count104
+\c@ExePart=\count105
+\c@Question=\count106
+\c@subQuestion=\count107
+\c@subsubQuestion=\count108
+\c@savedQuestion=\count109
+\c@savedsubQuestion=\count110
+\c@savedsubsubQuestion=\count111
+\@QuestionLevel=\count112
+\@Exercisebox=\box28
+\all@Exercisebox=\box29
+\temp@Exercisebox=\box30
+\all@Answerbox=\box31
+\temp@Answerbox=\box32
+\ExerciseDifficulty=\count113
+\QuestionDifficulty=\count114
+\subQuestionDifficulty=\count115
+\subsubQuestionDifficulty=\count116
+\ExePartDifficulty=\count117
+\@Answerbox=\box33
+\colonnesLevel=\count118
+\tempskipa=\skip75
+\tempskipb=\skip76
+\@savedmathindent=\skip77
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count119
+\c@@ppsavesec=\count120
+\c@@ppsaveapp=\count121
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(c:/usr/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(c:/usr/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(c:/usr/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen122
+\Hy@linkcounter=\count122
+\Hy@pagecounter=\count123
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count124
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count125
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen123
+\Fld@menulength=\count126
+\Field@Width=\dimen124
+\Fld@charsize=\dimen125
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count127
+\c@Item=\count128
+\c@Hfootnote=\count129
+)
+
+Package hyperref Message: Driver (default): hdvips.
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2012/11/06 v6.83m Hyperref driver for dvips
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2012/11/06 v6.83m Hyperref definitions for pdfmark specials
+\pdf@docset=\toks27
+\pdf@box=\box34
+\pdf@toks=\toks28
+\pdf@defaulttoks=\toks29
+\HyField@AnnotCount=\count130
+\Fld@listcount=\count131
+\c@bookmark@seq@number=\count132
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip78
+))
+! Undefined control sequence.
+l.40 \newstyle
+              {a:link}{color:black;}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \newstyle{a
+                :link}{color:black;}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.41 \newstyle
+              {p+p}{margin-top:1em;margin-bottom:1em}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.42 \newstyle
+              {img}{border:0px}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.45 \setlinkstext
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.46   {\imgsrc
+               [ALT="Previous"]{back.png}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46   {\imgsrc[
+                ALT="Previous"]{back.png}}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.47   {\imgsrc
+               [ALT="Up"]{up.png}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.48   {\imgsrc
+               [ALT="Next"]{next.png}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\@indexfile=\write3
+\openout3 = `book.idx'.
+
+Writing index file book.idx
+No file book.aux.
+\openout1 = `book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 55.
+(c:/usr/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 55.
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 3:2
+* vratio: 1:1
+* modes: twoside 
+* h-part:(L,W,R)=(130.086pt, 397.48499pt, 86.72401pt)
+* v-part:(T,H,B)=(90.3375pt, 614.295pt, 90.3375pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=397.48499pt
+* \textheight=614.295pt
+* \oddsidemargin=57.81601pt
+* \evensidemargin=14.45403pt
+* \topmargin=-11.99998pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box35
+Package hyperref Info: Link coloring OFF on input line 55.
+(c:/usr/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(c:/usr/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count133
+)
+LaTeX Info: Redefining \ref on input line 55.
+LaTeX Info: Redefining \pageref on input line 55.
+LaTeX Info: Redefining \nameref on input line 55.
+\@outlinefile=\write4
+\openout4 = `book.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+[1
+
+] [2
+
+]
+\c@exercise=\count134
+ (./latexonly)
+
+! LaTeX Error: Environment latexonly undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 \begin{latexonly}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1] [2] [3]
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 166.
+
+ (c:/usr/texlive/2013/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 179.
+
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 179.
+
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 179
+.
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 179
+.
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 179
+.
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 179
+.
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+
+! LaTeX Error: \begin{document} ended by \end{latexonly}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193 \end{latexonly}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment htmlonly undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.198 \begin{htmlonly}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{htmlonly}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 \end{htmlonly}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[4]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 218.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 220.
+ [5
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 317--319
+
+ []
+
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 364.
+[6] [7] [8]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <9> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 589.
+
+
+LaTeX Warning: Reference `exrotatepairs' on page ix undefined on input line 589
+.
+
+[9]
+
+LaTeX Warning: Reference `checksum' on page x undefined on input line 603.
+
+[10] [11] [12
+
+]
+
+! LaTeX Error: Environment latexonly undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.721 \begin{latexonly}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\tf@toc=\write5
+\openout5 = `book.toc'.
+
+[13
+
+] [14
+
+]
+
+! LaTeX Error: \begin{document} ended by \end{latexonly}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.727 \end{latexonly}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Chapter 0.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 732.
+[1
+
+
+]
+
+LaTeX Warning: Reference `fig.interpret' on page 2 undefined on input line 795.
+
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/interpret.pdf (no Bound
+ingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.802 ...egraphics[scale=0.9]{figs/interpret.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/interpret.pdf Graphic file (type eps)
+<figs/interpret.pdf>
+
+LaTeX Warning: Reference `fig.compile' on page 2 undefined on input line 813.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/compile.pdf (no Boundin
+gBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.817 ...udegraphics[scale=0.9]{figs/compile.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/compile.pdf Graphic file (type eps)
+<figs/compile.pdf> [2]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 917.
+ [3] [4] [5]
+LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 115
+9.
+
+(c:/usr/texlive/2013/texmf-dist/tex/latex/base/ts1cmtt.fd
+File: ts1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+
+LaTeX Warning: Reference `funcchap' on page 6 undefined on input line 1182.
+
+[6] [7] [8] [9] [10
+
+]
+Chapter 1.
+[11]
+
+LaTeX Warning: Reference `fig.state2' on page 12 undefined on input line 1518.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/state2.pdf (no Bounding
+Box).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1522 ...udegraphics[scale=0.8]{figs/state2.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/state2.pdf Graphic file (type eps)
+<figs/state2.pdf> [12] [13] [14]
+Underfull \hbox (badness 1178) in paragraph at lines 1798--1802
+[]\T1/ppl/b/n/10 M\T1/ppl/m/n/10 ultiplication and \T1/ppl/b/n/10 D\T1/ppl/m/n/
+10 ivision have the same prece-dence, which is higher than
+ []
+
+[15] [16] [17] [18]
+Chapter 2.
+[19
+
+] [20]
+
+LaTeX Warning: Reference `editor' on page 21 undefined on input line 2340.
+
+[21] [22] [23] [24]
+
+LaTeX Warning: Reference `fig.stack' on page 25 undefined on input line 2626.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/stack.pdf (no BoundingB
+ox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2630 ...ludegraphics[scale=0.8]{figs/stack.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/stack.pdf Graphic file (type eps)
+<figs/stack.pdf> [25] [26] [27] [28] [29] [30]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3087--3089
+\T1/ppl/m/n/10 Code ex-am-ples from this chap-ter are avail-able from
+ []
+
+[31
+
+] [32] [33] [34] [35] [36] [37] [38]
+Underfull \hbox (badness 10000) in paragraph at lines 3711--3713
+[][][]\T1/ppl/b/n/10 Exercise 3.1. \T1/ppl/m/it/10 Down-load the code in this c
+hap-ter from
+ []
+
+
+LaTeX Warning: Reference `refactoring' on page 39 undefined on input line 3724.
+
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/flowers.pdf (no Boundin
+gBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3738 ...degraphics[scale=0.8]{figs/flowers.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/flowers.pdf Graphic file (type eps)
+<figs/flowers.pdf>
+
+LaTeX Warning: Reference `fig.flowers' on page 39 undefined on input line 3747.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3749--3751
+[]\T1/ppl/m/it/10 Solution: [][][][], also re-quires
+ []
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/pies.pdf (no BoundingBo
+x).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3756 ...cludegraphics[scale=0.8]{figs/pies.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/pies.pdf Graphic file (type eps)
+<figs/pies.pdf>
+
+LaTeX Warning: Reference `fig.pies' on page 39 undefined on input line 3766.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3789--3791
+[]\T1/ppl/m/it/10 Solution: [][][][], also re-quires
+ []
+
+[39]
+Underfull \hbox (badness 2707) in paragraph at lines 3796--3801
+[][][]\T1/ppl/b/n/10 Exercise 3.5. \T1/ppl/m/it/10 Read about spi-rals at [][][
+][]; then
+ []
+
+[40]
+Chapter 4.
+[41
+
+] [42] [43] [44]
+
+LaTeX Warning: Reference `stackdiagram' on page 45 undefined on input line 4192
+.
+
+
+LaTeX Warning: Reference `fig.stack2' on page 45 undefined on input line 4201.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/stack2.pdf (no Bounding
+Box).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4206 ...udegraphics[scale=0.8]{figs/stack2.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/stack2.pdf Graphic file (type eps)
+<figs/stack2.pdf> [45]
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 4285
+.
+ (c:/usr/texlive/2013/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [46] [47] [48]
+
+LaTeX Warning: Reference `turtlechap' on page 49 undefined on input line 4558.
+
+
+LaTeX Warning: Reference `turtlechap' on page 49 undefined on input line 4564.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/koch.pdf (no BoundingBo
+x).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4585 ...cludegraphics[scale=0.8]{figs/koch.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/koch.pdf Graphic file (type eps)
+<figs/koch.pdf>
+
+LaTeX Warning: Reference `fig.koch' on page 49 undefined on input line 4594.
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 4629--4632
+[]\T1/ppl/m/it/10 The Koch curve can be gen-er-al-ized in sev-eral ways. See
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 4629--4632
+[][][][] \T1/ppl/m/it/10 for ex-am-ples and im-ple-ment
+ []
+
+[50]
+Chapter 5.
+[51
+
+] [52] [53]
+Underfull \hbox (badness 1490) in paragraph at lines 4955--4958
+\T1/ppl/m/n/10 It is com-mon to give boolean func-tions names that sound like y
+es/no ques-tions;
+ []
+
+[54] [55]
+
+LaTeX Warning: Reference `recursion' on page 56 undefined on input line 5094.
+
+
+LaTeX Warning: Reference `fig.stack3' on page 56 undefined on input line 5131.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/stack3.pdf (no Bounding
+Box).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5136 ...udegraphics[scale=0.8]{figs/stack3.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/stack3.pdf Graphic file (type eps)
+<figs/stack3.pdf> [56]
+
+LaTeX Warning: Reference `boolean' on page 57 undefined on input line 5170.
+
+
+Underfull \hbox (badness 7504) in paragraph at lines 5194--5199
+\T1/ppl/m/n/10 After \T1/cmtt/m/n/10 factorial\T1/ppl/m/n/10 , the most com-mon
+ ex-am-ple of a re-cur-sively de-fined math-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5194--5199
+\T1/ppl/m/n/10 e-mat-i-cal func-tion is \T1/cmtt/m/n/10 fibonacci\T1/ppl/m/n/10
+ , which has the fol-low-ing def-i-ni-tion (see
+ []
+
+[57]
+
+LaTeX Warning: Reference `raise' on page 58 undefined on input line 5300.
+
+[58]
+
+LaTeX Warning: Reference `incremental.development' on page 59 undefined on inpu
+t line 5336.
+
+[59] [60]
+Underfull \hbox (badness 2680) in paragraph at lines 5463--5472
+\T1/cmtt/m/n/10 ack \T1/ppl/m/it/10 that eval-u-ates Ack-er-mann's func-tion. U
+se your func-tion to eval-u-ate \T1/cmtt/m/n/10 ack(3, 4)\T1/ppl/m/it/10 ,
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 5463--5472
+\T1/ppl/m/it/10 which should be 125. What hap-pens for larger val-ues of \T1/cm
+tt/m/n/10 m \T1/ppl/m/it/10 and \T1/cmtt/m/n/10 n\T1/ppl/m/it/10 ? So-lu-tion:
+ []
+
+
+LaTeX Warning: Reference `strings' on page 61 undefined on input line 5499.
+
+[61] [62
+
+]
+Chapter 6.
+
+LaTeX Warning: Reference `fig.assign2' on page 63 undefined on input line 5578.
+
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/assign2.pdf (no Boundin
+gBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5612 ...degraphics[scale=0.8]{figs/assign2.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/assign2.pdf Graphic file (type eps)
+<figs/assign2.pdf> [63]
+
+LaTeX Warning: Reference `repetition' on page 64 undefined on input line 5675.
+
+[64]
+Underfull \hbox (badness 1178) in paragraph at lines 5757--5761
+\T1/ppl/m/it/10 i-tive val-ues \T1/ppl/m/n/10 of \T1/cmtt/m/n/10 n\T1/ppl/m/n/1
+0 . So far, no one has been able to prove it \T1/ppl/m/it/10 or \T1/ppl/m/n/10 
+dis-prove it! (See
+ []
+
+
+LaTeX Warning: Reference `recursion' on page 65 undefined on input line 5765.
+
+[65] [66] [67] [68]
+
+LaTeX Warning: Reference `squareroot' on page 69 undefined on input line 6063.
+
+[69] [70]
+Chapter 7.
+[71
+
+] [72]
+
+LaTeX Warning: Reference `fig.banana' on page 73 undefined on input line 6337.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/banana.pdf (no Bounding
+Box).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6341 ...udegraphics[scale=0.8]{figs/banana.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/banana.pdf Graphic file (type eps)
+<figs/banana.pdf> [73] [74] [75]
+Underfull \hbox (badness 10000) in paragraph at lines 6602--6607
+[][][]\T1/ppl/b/n/10 Exercise 7.8. \T1/ppl/m/it/10 Read the doc-u-men-ta-tion o
+f the string meth-ods at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6608--6613
+[]\T1/ppl/m/it/10 The doc-u-men-ta-tion uses a syn-tax that might be con-fus-in
+g. For ex-am-ple, in
+ []
+
+[76]
+
+LaTeX Warning: Reference `guardian' on page 77 undefined on input line 6726.
+
+[77]
+
+LaTeX Warning: Reference `fig.state4' on page 78 undefined on input line 6793.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/state4.pdf (no Bounding
+Box).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6799 ...udegraphics[scale=0.8]{figs/state4.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/state4.pdf Graphic file (type eps)
+<figs/state4.pdf> [78]
+
+LaTeX Warning: Reference `palindrome' on page 79 undefined on input line 6896.
+
+[79]
+Underfull \hbox (badness 10000) in paragraph at lines 6968--6971
+[]\T1/ppl/m/it/10 Potentially of-fen-sive jokes on the In-ter-net are some-time
+s en-coded in ROT13.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6968--6971
+\T1/ppl/m/it/10 If you are not eas-ily of-fended, find and de-code some of them
+. So-lu-tion:
+ []
+
+[80]
+Chapter 8.
+[81
+
+]
+
+LaTeX Warning: Reference `find' on page 82 undefined on input line 7174.
+
+[82] [83]
+
+LaTeX Warning: Reference `palindrome' on page 84 undefined on input line 7327.
+
+[84]
+
+LaTeX Warning: Reference `isreverse' on page 85 undefined on input line 7354.
+
+[85]
+Overfull \hbox (17.90283pt too wide) in paragraph at lines 7450--7456
+[][][]\T1/ppl/b/n/10 Exercise 8.8. \T1/ppl/m/it/10 Here's an-other \T1/ppl/m/n/
+10 Car Talk \T1/ppl/m/it/10 Puz-zler ([][][][]):
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7484--7489
+[][][]\T1/ppl/b/n/10 Exercise 8.9. \T1/ppl/m/it/10 Here's an-other \T1/ppl/m/n/
+10 Car Talk \T1/ppl/m/it/10 Puz-zler you can solve with a search
+ []
+
+[86]
+Chapter 9.
+[87
+
+]
+
+LaTeX Warning: Reference `fig.liststate' on page 88 undefined on input line 760
+5.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/liststate.pdf (no Bound
+ingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7614 ...graphics[scale=0.8]{figs/liststate.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/liststate.pdf Graphic file (type eps)
+<figs/liststate.pdf> [88] [89] [90] [91] [92]
+
+LaTeX Warning: Reference `fig.list1' on page 93 undefined on input line 8175.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/list1.pdf (no BoundingB
+ox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8180 ...ludegraphics[scale=0.8]{figs/list1.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/list1.pdf Graphic file (type eps)
+<figs/list1.pdf> [93]
+
+LaTeX Warning: Reference `fig.list2' on page 94 undefined on input line 8214.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/list2.pdf (no BoundingB
+ox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8220 ...ludegraphics[scale=0.8]{figs/list2.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/list2.pdf Graphic file (type eps)
+<figs/list2.pdf>
+
+LaTeX Warning: Reference `fig.list3' on page 94 undefined on input line 8258.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/list3.pdf (no BoundingB
+ox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8264 ...ludegraphics[scale=0.8]{figs/list3.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/list3.pdf Graphic file (type eps)
+<figs/list3.pdf> [94]
+
+LaTeX Warning: Reference `fig.stack5' on page 95 undefined on input line 8333.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/stack5.pdf (no Bounding
+Box).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8339 ...udegraphics[scale=0.8]{figs/stack5.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/stack5.pdf Graphic file (type eps)
+<figs/stack5.pdf> [95]
+Underfull \hbox (badness 2865) in paragraph at lines 8437--8444
+[]\T1/ppl/m/n/10 Before us-ing list meth-ods and op-er-a-tors, you should read 
+the doc-u-men-ta-
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 8437--8444
+\T1/ppl/m/n/10 tion care-fully and then test them in in-ter-ac-tive mode. The m
+eth-ods and
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 8437--8444
+\T1/ppl/m/n/10 op-er-a-tors that lists share with other se-quences (like string
+s) are doc-u-mented
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 8437--8444
+\T1/ppl/m/n/10 at [][][][]. The meth-
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 8437--8444
+\T1/ppl/m/n/10 ods and op-er-a-tors that only ap-ply to mu-ta-ble se-quences ar
+e doc-u-mented at
+ []
+
+[96] [97]
+Underfull \hbox (badness 10000) in paragraph at lines 8653--8657
+[]\T1/ppl/m/it/10 Hint: use the \T1/cmtt/m/n/10 time \T1/ppl/m/it/10 mod-ule to
+ mea-sure elapsed time. So-lu-tion:
+ []
+
+[98]
+Underfull \hbox (badness 2020) in paragraph at lines 8693--8695
+[]\T1/ppl/m/it/10 Or you could read the doc-u-men-ta-tion of the \T1/cmtt/m/n/1
+0 bisect \T1/ppl/m/it/10 mod-ule and use that! So-lu-tion:
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 8701--8704
+[][][]\T1/ppl/b/n/10 Exercise 9.12. \T1/ppl/m/it/10 Two words are a ``re-verse 
+pair'' if each is the re-verse of the other.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8701--8704
+\T1/ppl/m/it/10 Write a pro-gram that finds all the re-verse pairs in the word 
+list. So-lu-tion:
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 8710--8715
+[][][]\T1/ppl/b/n/10 Exercise 9.13. \T1/ppl/m/it/10 Two words ``in-ter-lock'' i
+f tak-ing al-ter-nat-ing let-ters from each forms a
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 8710--8715
+\T1/ppl/m/it/10 new word. For ex-am-ple, ``shoe'' and ``cold'' in-ter-lock to f
+orm ``schooled.'' So-lu-tion:
+ []
+
+[99] [100
+
+]
+Chapter 10.
+[101]
+
+LaTeX Warning: Reference `find' on page 102 undefined on input line 8858.
+
+
+LaTeX Warning: Reference `wordlist1' on page 102 undefined on input line 8878.
+
+[102] [103] [104]
+
+! LaTeX Error: Cannot determine size of graphic in figs/dict1.pdf (no BoundingB
+ox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9165 ...ludegraphics[scale=0.8]{figs/dict1.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/dict1.pdf Graphic file (type eps)
+<figs/dict1.pdf>
+
+LaTeX Warning: Reference `fig.dict1' on page 105 undefined on input line 9170.
+
+[105]
+Underfull \hbox (badness 10000) in paragraph at lines 9220--9225
+[][][]\T1/ppl/b/n/10 Exercise 10.5. \T1/ppl/m/it/10 Read the doc-u-men-ta-tion 
+of the dic-tio-nary method \T1/cmtt/m/n/10 setdefault
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9220--9225
+\T1/ppl/m/it/10 and use it to write a more con-cise ver-sion of []\T1/cmtt/m/n/
+10 invert_dict\T1/ppl/m/it/10 . So-lu-tion:
+ []
+
+
+LaTeX Warning: Reference `one.more.example' on page 106 undefined on input line
+ 9232.
+
+
+LaTeX Warning: Reference `fig.fibonacci' on page 106 undefined on input line 92
+38.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/fibonacci.pdf (no Bound
+ingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9243 ...graphics[scale=0.7]{figs/fibonacci.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/fibonacci.pdf Graphic file (type eps)
+<figs/fibonacci.pdf> [106]
+
+LaTeX Warning: Reference `ackermann' on page 107 undefined on input line 9297.
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 9297--9303
+\T1/ppl/m/it/10 makes it pos-si-ble to eval-u-ate the func-tion with big-ger ar
+-gu-ments. Hint: no. So-lu-tion:
+ []
+
+[107] [108]
+Underfull \hbox (badness 10000) in paragraph at lines 9464--9468
+[][][]\T1/ppl/b/n/10 Exercise 10.8. \T1/ppl/m/it/10 Ex-po-nen-ti-a-tion of larg
+e in-te-gers is the ba-sis of com-mon al-go-
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 9464--9468
+\T1/ppl/m/it/10 rithms for public-key en-cryp-tion. Read the Wikipedia page on 
+the RSA al-go-rithm
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 9464--9468
+\T1/ppl/m/it/10 ([][][][]) and write func-tions to en-code
+ []
+
+
+LaTeX Warning: Reference `factdebug' on page 109 undefined on input line 9516.
+
+[109]
+
+LaTeX Warning: Reference `duplicate' on page 110 undefined on input line 9613.
+
+
+Underfull \hbox (badness 4582) in paragraph at lines 9618--9621
+[]\T1/ppl/m/it/10 Use a dic-tio-nary to write a faster, sim-pler ver-sion of []
+\T1/cmtt/m/n/10 has_duplicates\T1/ppl/m/it/10 . So-lu-tion:
+ []
+
+
+LaTeX Warning: Reference `exrotate' on page 110 undefined on input line 9631.
+
+[110]
+Underfull \hbox (badness 6016) in paragraph at lines 9633--9635
+[]\T1/ppl/m/it/10 Write a pro-gram that reads a wordlist and finds all the ro-t
+ate pairs. So-lu-tion:
+ []
+
+
+Overfull \hbox (48.51254pt too wide) in paragraph at lines 9643--9645
+[][][]\T1/ppl/b/n/10 Exercise 10.11. \T1/ppl/m/it/10 Here's an-other Puz-zler f
+rom \T1/ppl/m/n/10 Car Talk \T1/ppl/m/it/10 ([][][][]): 
+ []
+
+
+LaTeX Warning: Reference `wordlist2' on page 111 undefined on input line 9673.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9676--9684
+\T1/ppl/m/it/10 or from [][][][] and you can also down-load
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9676--9684
+[][][][]\T1/ppl/m/it/10 , which pro-vides a func-tion named
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9685--9687
+[]\T1/ppl/m/it/10 Write a pro-gram that lists all the words that solve the Puz-
+zler. So-lu-tion:
+ []
+
+[111] [112
+
+]
+Chapter 11.
+[113] [114] [115] [116] [117]
+
+LaTeX Warning: Reference `fig.tuple1' on page 118 undefined on input line 10197
+.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/tuple1.pdf (no Bounding
+Box).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10203 ...degraphics[scale=0.8]{figs/tuple1.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/tuple1.pdf Graphic file (type eps)
+<figs/tuple1.pdf>
+
+LaTeX Warning: Reference `fig.dict2' on page 118 undefined on input line 10210.
+
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/dict2.pdf (no BoundingB
+ox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10214 ...udegraphics[scale=0.8]{figs/dict2.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/dict2.pdf Graphic file (type eps)
+<figs/dict2.pdf> [118]
+Underfull \hbox (badness 1163) in paragraph at lines 10301--10308
+[][][]\T1/ppl/b/n/10 Exercise 11.2. \T1/ppl/m/it/10 In this ex-am-ple, ties are
+ bro-ken by com-par-ing words, so words with the
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 10301--10308
+\T1/ppl/m/it/10 same length ap-pear in re-verse al-pha-bet-i-cal or-der. For ot
+her ap-pli-ca-tions you might want
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 10301--10308
+\T1/ppl/m/it/10 to break ties at ran-dom. Mod-ify this ex-am-ple so that words 
+with the same length ap-
+ []
+
+[119] [120]
+Underfull \hbox (badness 2253) in paragraph at lines 10485--10492
+\T1/ppl/m/it/10 let-ters in de-creas-ing or-der of fre-quency. Find text sam-pl
+es from sev-eral dif-fer-ent lan-
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 10485--10492
+\T1/ppl/m/it/10 guages and see how let-ter fre-quency varies be-tween lan-guage
+s. Com-pare your re-sults
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 10485--10492
+\T1/ppl/m/it/10 with the ta-bles at [][][][]. So-lu-tion:
+ []
+
+
+LaTeX Warning: Reference `wordlist' on page 121 undefined on input line 10506.
+
+
+Overfull \hbox (19.84267pt too wide) in paragraph at lines 10559--10561
+[][][]\T1/ppl/b/n/10 Exercise 11.6. \T1/ppl/m/it/10 Here's an-other Car Talk Pu
+z-zler ([][][][]): 
+ []
+
+[121] [122]
+Chapter 12.
+
+LaTeX Warning: Reference `wordlist' on page 123 undefined on input line 10697.
+
+[123
+
+]
+
+LaTeX Warning: Reference `histogram' on page 124 undefined on input line 10780.
+
+
+[124]
+Underfull \hbox (badness 1430) in paragraph at lines 10833--10838
+[][]\T1/cmtt/m/n/10 process_file \T1/ppl/m/n/10 loops through the lines of the 
+file, pass-ing them one at a time to
+ []
+
+[125] [126]
+Underfull \hbox (badness 10000) in paragraph at lines 11022--11028
+[][][]\T1/ppl/b/n/10 Exercise 12.6. \T1/ppl/m/it/10 Python pro-vides a data str
+uc-ture called \T1/cmtt/m/n/10 set \T1/ppl/m/it/10 that pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11022--11028
+\T1/ppl/m/it/10 vides many com-mon set op-er-a-tions. Read the doc-u-men-ta-tio
+n at
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 11022--11028
+[][][][] \T1/ppl/m/it/10 and write a pro-
+ []
+
+[127]
+
+LaTeX Warning: Reference `cumulative' on page 128 undefined on input line 11070
+.
+
+
+LaTeX Warning: Reference `bisection' on page 128 undefined on input line 11074.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11112--11121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11112--11121
+
+ []
+
+[128]
+Underfull \hbox (badness 1472) in paragraph at lines 11196--11199
+[]\T1/ppl/m/n/10 You should at-tempt this ex-er-cise be-fore you go on; then yo
+u can can down-load
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 11196--11199
+\T1/ppl/m/n/10 my so-lu-tion from [][][][]. You will also need
+ []
+
+[129]
+
+LaTeX Warning: Reference `randhist' on page 130 undefined on input line 11258.
+
+[130] [131] [132]
+Chapter 13.
+
+LaTeX Warning: Reference `wordlist' on page 133 undefined on input line 11480.
+
+[133
+
+] [134] [135] [136] [137]
+
+LaTeX Warning: Reference `anagrams' on page 138 undefined on input line 11942.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11942--11948
+[][][]\T1/ppl/b/n/10 Exercise 13.3. \T1/ppl/m/it/10 If you down-load my so-lu-t
+ion to Ex-er-cise [] from
+ []
+
+[138]
+Underfull \hbox (badness 3029) in paragraph at lines 12017--12026
+\T1/ppl/m/n/10 con-tents of a file and com-putes a ``check-sum.'' You can read 
+about MD5 at
+ []
+
+[139] [140]
+Underfull \hbox (badness 10000) in paragraph at lines 12282--12286
+[]\T1/ppl/m/it/10 Run this code and fol-low the in-struc-tions you see there. S
+o-lu-tion:
+ []
+
+[141] [142
+
+]
+Chapter 14.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12359--12363
+\T1/ppl/m/n/10 Code ex-am-ples from this chap-ter are avail-able from
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 12359--12363
+[][][][]\T1/ppl/m/n/10 ; so-lu-tions to the ex-er-cises are avail-able
+ []
+
+[143]
+
+LaTeX Warning: Reference `fig.point' on page 144 undefined on input line 12482.
+
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/point.pdf (no BoundingB
+ox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12490 ...udegraphics[scale=0.8]{figs/point.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/point.pdf Graphic file (type eps)
+<figs/point.pdf> [144] [145]
+
+! LaTeX Error: Cannot determine size of graphic in figs/rectangle.pdf (no Bound
+ingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12617 ...raphics[scale=0.8]{figs/rectangle.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/rectangle.pdf Graphic file (type eps)
+<figs/rectangle.pdf>
+
+LaTeX Warning: Reference `fig.rectangle' on page 146 undefined on input line 12
+623.
+
+[146] [147]
+
+! LaTeX Error: Cannot determine size of graphic in figs/rectangle2.pdf (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12777 ...aphics[scale=0.8]{figs/rectangle2.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/rectangle2.pdf Graphic file (type eps)
+<figs/rectangle2.pdf>
+
+LaTeX Warning: Reference `fig.rectangle2' on page 148 undefined on input line 1
+2782.
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 12792--12798
+[]\T1/ppl/m/n/10 For most ap-pli-ca-tions, this is not what you want. In this e
+x-am-ple, in-vok-ing
+ []
+
+[148]
+
+LaTeX Warning: Reference `turtlechap' on page 149 undefined on input line 12920
+.
+
+[149] [150]
+Chapter 15.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13021--13023
+\T1/ppl/m/n/10 Code ex-am-ples from this chap-ter are avail-able from
+ []
+
+
+LaTeX Warning: Reference `fig.time' on page 151 undefined on input line 13053.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/time.pdf (no BoundingBo
+x).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13081 ...ludegraphics[scale=0.8]{figs/time.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/time.pdf Graphic file (type eps)
+<figs/time.pdf> [151
+
+] [152] [153] [154] [155]
+Underfull \hbox (badness 10000) in paragraph at lines 13439--13442
+\T1/ppl/m/n/10 Code ex-am-ples from this chap-ter are avail-able from
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 13439--13442
+[][][][]\T1/ppl/m/n/10 ; so-lu-tions to these ex-er-cises are avail-able
+ []
+
+[156]
+Chapter 16.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13506--13508
+\T1/ppl/m/n/10 Code ex-am-ples from this chap-ter are avail-able from
+ []
+
+
+LaTeX Warning: Reference `time' on page 157 undefined on input line 13531.
+
+[157
+
+]
+
+LaTeX Warning: Reference `time' on page 158 undefined on input line 13581.
+
+
+LaTeX Warning: Reference `ex.printtime' on page 158 undefined on input line 135
+82.
+
+[158]
+
+LaTeX Warning: Reference `prototype' on page 159 undefined on input line 13686.
+
+
+
+LaTeX Warning: Reference `increment' on page 159 undefined on input line 13696.
+
+
+
+LaTeX Warning: Reference `convert' on page 159 undefined on input line 13708.
+
+
+LaTeX Warning: Reference `isafter' on page 159 undefined on input line 13743.
+
+[159] [160]
+Underfull \hbox (badness 10000) in paragraph at lines 13916--13921
+[]\T1/ppl/m/n/10 Changing the be-hav-ior of an op-er-a-tor so that it works wit
+h user-defined
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 13916--13921
+\T1/ppl/m/n/10 types is called \T1/ppl/b/n/10 op-er-a-tor over-load-ing\T1/ppl/
+m/n/10 . For ev-ery op-er-a-tor in Python there
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13916--13921
+\T1/ppl/m/n/10 is a cor-re-spond-ing spe-cial method, like []\T1/cmtt/m/n/10 __
+add__\T1/ppl/m/n/10 . For more de-tails, see
+ []
+
+[161] [162]
+
+LaTeX Warning: Reference `histogram' on page 163 undefined on input line 14044.
+
+
+[163]
+
+LaTeX Warning: Reference `hasattr' on page 164 undefined on input line 14107.
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 14184--14191
+[]\T1/ppl/m/n/10 Keeping the in-ter-face sep-a-rate from the im-ple-men-ta-tion
+ means that you have to
+ []
+
+[164]
+Overfull \hbox (21.89668pt too wide) in paragraph at lines 14194--14202
+[][][]\T1/ppl/b/n/10 Exercise 16.6. \T1/ppl/m/it/10 Down-load the code from thi
+s chap-ter ([][][][]).
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 14268--14270
+[]\T1/ppl/m/it/10 A method named []\T1/cmtt/m/n/10 put_in_pouch \T1/ppl/m/it/10
+ that takes an ob-ject of any type and adds it to
+ []
+
+[165] [166]
+Chapter 17.
+[167
+
+] [168]
+
+! LaTeX Error: Cannot determine size of graphic in figs/card1.pdf (no BoundingB
+ox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14536 ...udegraphics[scale=0.8]{figs/card1.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/card1.pdf Graphic file (type eps)
+<figs/card1.pdf>
+
+LaTeX Warning: Reference `fig.card1' on page 169 undefined on input line 14541.
+
+
+[169] [170] [171] [172] [173]
+
+LaTeX Warning: Reference `fig.class1' on page 174 undefined on input line 14971
+.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/class1.pdf (no Bounding
+Box).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14976 ...degraphics[scale=0.8]{figs/class1.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/class1.pdf Graphic file (type eps)
+<figs/class1.pdf> [174]
+
+LaTeX Warning: Reference `time' on page 175 undefined on input line 15078.
+
+
+LaTeX Warning: Reference `markov' on page 175 undefined on input line 15094.
+
+[175]
+
+LaTeX Warning: Reference `refactoring' on page 176 undefined on input line 1514
+2.
+
+
+LaTeX Warning: Reference `markov' on page 176 undefined on input line 15166.
+
+
+Overfull \hbox (21.59546pt too wide) in paragraph at lines 15166--15171
+[][][]\T1/ppl/b/n/10 Exercise 17.5. \T1/ppl/m/it/10 Down-load my code from Sec-
+tion [] ([][][][]),
+ []
+
+[176]
+Underfull \hbox (badness 10000) in paragraph at lines 15312--15316
+[]\T1/ppl/m/it/10 Print a ta-ble of the clas-si-fi-ca-tions and their prob-a-bi
+l-i-ties. Run your pro-
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 15312--15316
+\T1/ppl/m/it/10 gram with larger and larger num-bers of hands un-til the out-pu
+t val-ues con-
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 15312--15316
+\T1/ppl/m/it/10 verge to a rea-son-able de-gree of ac-cu-racy. Com-pare your re
+-sults to the val-ues at
+ []
+
+
+LaTeX Warning: Reference `turtlechap' on page 177 undefined on input line 15327
+.
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 15327--15331
+[][][]\T1/ppl/b/n/10 Exercise 17.7. \T1/ppl/m/it/10 This ex-er-cise uses Turtle
+-World from Chap-ter []. You will write code
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 15327--15331
+\T1/ppl/m/it/10 that makes Tur-tles play tag. If you are not fa-mil-iar with th
+e rules of tag, see
+ []
+
+[177] [178]
+Chapter 18.
+[179
+
+] [180]
+Underfull \hbox (badness 10000) in paragraph at lines 15566--15568
+[]\T1/ppl/m/it/10 What hap-pens if you press the but-tons more than once? So-lu
+-tion:
+ []
+
+
+LaTeX Warning: Reference `canvas' on page 181 undefined on input line 15578.
+
+[181] [182]
+
+LaTeX Warning: Reference `circle' on page 183 undefined on input line 15773.
+
+
+LaTeX Warning: Reference `fig.turtleworld' on page 183 undefined on input line 
+15792.
+
+
+LaTeX Warning: Reference `turtlechap' on page 183 undefined on input line 15793
+.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/TurtleWorld.pdf (no Bou
+ndingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15796 ...phics[scale=0.5]{figs/TurtleWorld.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/TurtleWorld.pdf Graphic file (type eps)
+<figs/TurtleWorld.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 15802--15805
+[]\T1/ppl/m/n/10 This sec-tion presents the code that cre-ates this GUI, bro-ke
+n into
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15802--15805
+\T1/ppl/m/n/10 a se-ries of steps. You can down-load the com-plete ex-am-ple fr
+om
+ []
+
+[183] [184] [185] [186] [187]
+
+LaTeX Warning: Reference `circle2' on page 188 undefined on input line 16201.
+
+[188] [189]
+Underfull \hbox (badness 10000) in paragraph at lines 16356--16361
+[]\T1/ppl/m/it/10 Download []\T1/cmtt/m/n/10 image_demo.py\T1/ppl/m/it/10 , []\
+T1/cmtt/m/n/10 danger.gif \T1/ppl/m/it/10 and []\T1/cmtt/m/n/10 allen.png \T1/p
+pl/m/it/10 from
+ []
+
+
+LaTeX Warning: Reference `urllib' on page 190 undefined on input line 16434.
+
+[190] [191] [192
+
+]
+Appendix A.
+[193] [194] [195] [196] [197] [198] [199] [200]
+Appendix B.
+
+Underfull \hbox (badness 4120) in paragraph at lines 17102--17107
+[]\T1/ppl/b/n/10 Analysis of al-go-rithms \T1/ppl/m/n/10 is a branch of com-put
+er sci-ence that stud-ies the per-
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 17102--17107
+\T1/ppl/m/n/10 for-mance of al-go-rithms, es-pe-cially their run time and space
+ re-quire-ments. See
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17122--17135
+[]\T1/ppl/m/n/10 This is true: bub-ble sort is con-cep-tu-ally sim-ple but slow
+ for large
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17122--17135
+\T1/ppl/m/n/10 datasets. The an-swer Schmidt was prob-a-bly look-ing for is ``r
+adix sort''
+ []
+
+[201
+
+] [202]
+Underfull \hbox (badness 10000) in paragraph at lines 17287--17290
+[][][]\T1/ppl/b/n/10 Exercise B.1. \T1/ppl/m/it/10 Read the Wikipedia page on B
+ig-Oh no-ta-tion at
+ []
+
+[203]
+Underfull \hbox (badness 1400) in paragraph at lines 17425--17432
+[]\T1/cmtt/m/n/10 keys\T1/ppl/m/n/10 , \T1/cmtt/m/n/10 values \T1/ppl/m/n/10 an
+d \T1/cmtt/m/n/10 items \T1/ppl/m/n/10 are lin-ear be-cause they re-turn new li
+sts; \T1/cmtt/m/n/10 iterkeys\T1/ppl/m/n/10 ,
+ []
+
+[204]
+
+LaTeX Warning: Reference `hashtable' on page 205 undefined on input line 17437.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17442--17446
+[][][]\T1/ppl/b/n/10 Exercise B.2. \T1/ppl/m/it/10 Read the Wikipedia page on s
+ort-ing al-go-rithms at
+ []
+
+[205]
+Underfull \hbox (badness 1019) in paragraph at lines 17592--17600
+[]\T1/ppl/m/n/10 An al-ter-na-tive is to keep the list sorted by key. Then \T1/
+cmtt/m/n/10 get \T1/ppl/m/n/10 could use a bi-sec-tion
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 17592--17600
+\T1/ppl/m/n/10 ear, so this might not be the best op-tion. There are other data
+ struc-tures (see
+ []
+
+[206] [207] [208]
+
+LaTeX Warning: Reference `fig.hash' on page 209 undefined on input line 17752.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/towers.pdf (no Bounding
+Box).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17758 ...degraphics[scale=1.0]{figs/towers.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/towers.pdf Graphic file (type eps)
+<figs/towers.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 17775--17778
+[]\T1/ppl/m/n/10 You can down-load my im-ple-men-ta-tion of HashMap from
+ []
+
+[209] [210
+
+]
+Appendix C.
+
+LaTeX Warning: Reference `variables' on page 211 undefined on input line 17791.
+
+
+
+LaTeX Warning: Reference `stackdiagram' on page 211 undefined on input line 177
+92.
+
+
+LaTeX Warning: Reference `recursive.stack' on page 211 undefined on input line 
+17796.
+
+
+LaTeX Warning: Reference `more.recursion' on page 211 undefined on input line 1
+7796.
+
+
+LaTeX Warning: Reference `mutable' on page 211 undefined on input line 17800.
+
+
+LaTeX Warning: Reference `invert' on page 211 undefined on input line 17801.
+
+
+LaTeX Warning: Reference `dictuple' on page 211 undefined on input line 17802.
+
+
+LaTeX Warning: Reference `attributes' on page 211 undefined on input line 17804
+.
+
+
+LaTeX Warning: Reference `rectangles' on page 211 undefined on input line 17806
+.
+
+
+LaTeX Warning: Reference `time.object' on page 211 undefined on input line 1780
+7.
+
+
+LaTeX Warning: Reference `class.attribute' on page 211 undefined on input line 
+17809.
+
+
+LaTeX Warning: Reference `class.diagram' on page 211 undefined on input line 17
+814.
+
+
+LaTeX Warning: Reference `turtlechap' on page 211 undefined on input line 17836
+.
+
+
+LaTeX Warning: Reference `tkinter' on page 211 undefined on input line 17836.
+
+
+LaTeX Warning: Reference `canvas' on page 211 undefined on input line 17837.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/lumpydemo1.pdf (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17849 ...aphics[scale=0.7]{figs/lumpydemo1.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/lumpydemo1.pdf Graphic file (type eps)
+<figs/lumpydemo1.pdf> [211]
+
+LaTeX Warning: Reference `fig.lumpy1' on page 212 undefined on input line 17887
+.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/lumpydemo2.pdf (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17910 ...aphics[scale=0.7]{figs/lumpydemo2.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/lumpydemo2.pdf Graphic file (type eps)
+<figs/lumpydemo2.pdf> [212]
+
+LaTeX Warning: Reference `fig.lumpy2' on page 213 undefined on input line 17935
+.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/lumpydemo3.pdf (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17958 ...aphics[scale=0.7]{figs/lumpydemo3.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/lumpydemo3.pdf Graphic file (type eps)
+<figs/lumpydemo3.pdf>
+
+LaTeX Warning: Reference `sequence' on page 213 undefined on input line 17964.
+
+
+LaTeX Warning: Reference `fig.lumpy3' on page 213 undefined on input line 17981
+.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/lumpydemo4.pdf (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17990 ...aphics[scale=0.7]{figs/lumpydemo4.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/lumpydemo4.pdf Graphic file (type eps)
+<figs/lumpydemo4.pdf> [213]
+
+LaTeX Warning: Reference `invert' on page 214 undefined on input line 17996.
+
+
+LaTeX Warning: Reference `fig.lumpy4' on page 214 undefined on input line 18012
+.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/lumpydemo5.pdf (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18018 ...aphics[scale=0.7]{figs/lumpydemo5.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/lumpydemo5.pdf Graphic file (type eps)
+<figs/lumpydemo5.pdf>
+
+LaTeX Warning: Reference `copying' on page 214 undefined on input line 18024.
+
+
+LaTeX Warning: Reference `fig.lumpy5' on page 214 undefined on input line 18050
+.
+
+[214]
+
+! LaTeX Error: Cannot determine size of graphic in figs/lumpydemo6.pdf (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18062 ...aphics[scale=0.7]{figs/lumpydemo6.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/lumpydemo6.pdf Graphic file (type eps)
+<figs/lumpydemo6.pdf>
+Underfull \hbox (badness 1072) in paragraph at lines 18075--18079
+\T1/ppl/m/n/10 to ap-pear. This ex-am-ple shows what that looks like; you can d
+own-load it from
+ []
+
+
+LaTeX Warning: Reference `fig.lumpy6' on page 215 undefined on input line 18102
+.
+
+
+! LaTeX Error: Cannot determine size of graphic in figs/lumpydemo7.pdf (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18124 ...aphics[scale=0.7]{figs/lumpydemo7.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/lumpydemo7.pdf Graphic file (type eps)
+<figs/lumpydemo7.pdf> [215]
+
+! LaTeX Error: Cannot determine size of graphic in figs/lumpydemo8.pdf (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18131 ...aphics[scale=0.7]{figs/lumpydemo8.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figs/lumpydemo8.pdf Graphic file (type eps)
+<figs/lumpydemo8.pdf>
+Underfull \hbox (badness 1072) in paragraph at lines 18153--18155
+[]\T1/ppl/m/n/10 Here's an ex-am-ple that shows a HAS-A re-la-tion-ship. You ca
+n down-load it from
+ []
+
+
+LaTeX Warning: Reference `fig.lumpy7' on page 216 undefined on input line 18172
+.
+
+
+LaTeX Warning: Reference `poker' on page 216 undefined on input line 18184.
+
+[216]
+
+LaTeX Warning: Reference `fig.lumpy8' on page 217 undefined on input line 18204
+.
+
+No file book.ind.
+[217] [218
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18224.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 18224.
+ (./book.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 18224.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 18224
+.
+
+
+Package rerunfilecheck Warning: File `book.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `book.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  146BA65EC0F31B01D991E9324AB93250;15582.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 18224.
+ ) 
+Here is how much of TeX's memory you used:
+ 7528 strings out of 493309
+ 109034 string characters out of 6137849
+ 193775 words of memory out of 5000000
+ 10845 multiletter control sequences out of 15000+600000
+ 38628 words of font info for 80 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 29i,12n,43p,10655b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on book.dvi (234 pages, 794000 bytes).
